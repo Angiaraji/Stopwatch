@@ -1,0 +1,17 @@
+
+NET "clk"          LOC = "P125" | IOSTANDARD = "LVCMOS33";   
+NET "reset"        LOC = "P55"  | IOSTANDARD = "LVCMOS33"; 
+NET "key1"         LOC = "P112" | IOSTANDARD = "LVCMOS33"; 
+NET "key2"         LOC = "P113" | IOSTANDARD = "LVCMOS33"; 
+NET "sseg_sel(3)"  LOC = "P70"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg_sel(2)"  LOC = "P69"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg_sel(1)"  LOC = "P68"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg_sel(0)"  LOC = "P53"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg(7)"      LOC = "P52"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg(6)"      LOC = "P41"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg(5)"      LOC = "P40"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg(4)"      LOC = "P51"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg(3)"      LOC = "P50"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg(2)"      LOC = "P47"  | IOSTANDARD = "LVCMOS33"; 
+NET "sseg(1)"      LOC = "P44"  | IOSTANDARD = "LVCMOS33";
+NET "sseg(0)"      LOC = "P46"  | IOSTANDARD = "LVCMOS33";  
