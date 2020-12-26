@@ -1,10 +1,10 @@
 # Stopwatch
-Design and implementation of Stopwatch in Spartan 3 FPGA
+Design and implementation of digital Stopwatch in Spartan 3 FPGA
 
 
-Stopwatch design that has two input buttons and four 8-bit outputs
-connected to 7-segment displays showing minutes and seconds. The design
-of the controller is implemented by the design of Finite State Machine as below.
+Stopwatch design has two input buttons. Button 1 is to switch between Start, Stop and Run states and button 2 is to reset.
+It has four 8-bit output for 7-segment LED display control which shows the tens and ones of minutes and seconds. 
+The design of the stopwatch controller is implemented by the design of Finite State Machine as below.
 
 ![](StopwatchFSM.jpg)
 
