@@ -6,7 +6,7 @@ Stopwatch design that has two input buttons and four 8-bit outputs
 connected to 7-segment displays showing minutes and seconds. The design
 of the controller is implemented by the design of Finite State Machine as below.
 
-![](stopwatchFSM.jpg)
+![](StopwatchFSM.jpg)
 
 The overall design files includes:
 
@@ -16,4 +16,7 @@ The overall design files includes:
 3. Overall top level for the stopwatch design and test bench
 4. Constraint file, bit file and reports.
 
+Below is the schematic representation of the overall design.
+
+![](implemented-design.jpg)
 
